@@ -1,0 +1,1 @@
+<a href="http://google.com" target="_blank">Click Me!</a>
